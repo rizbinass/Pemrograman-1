@@ -1,4 +1,4 @@
-package loopingBintang;
+
 
 public class loopingSegitigaSiku {
     public static void main(String[] args) {

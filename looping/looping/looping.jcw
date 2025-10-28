@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>looping</label>
+		<id>46</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>looping.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>looping.jcp</path>
+		</project>
+	</projects>
+</workspace>

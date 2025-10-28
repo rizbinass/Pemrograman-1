@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FunsgsiIF</label>
+		<id>104</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>FunsgsiIF.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FunsgsiIF.jcp</path>
+		</project>
+	</projects>
+</workspace>

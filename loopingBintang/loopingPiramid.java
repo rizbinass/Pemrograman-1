@@ -1,3 +1,4 @@
+package loopingBintang;
 public class loopingPiramid {
     public static void main(String[] args) {
         // tinggi segitiga

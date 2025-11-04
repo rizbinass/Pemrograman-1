@@ -1,7 +1,6 @@
 package loopingBintang;
 public class loopingPiramid {
     public static void main(String[] args) {
-        // tinggi segitiga
         int tinggi = 10;    
 
         for(int i = 0; i <= tinggi; i++){
